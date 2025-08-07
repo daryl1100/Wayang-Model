@@ -3,5 +3,6 @@ tensorflow-cpu==2.16.1
 keras==3.0.5
 torch==2.2.2
 torchvision==0.17.2
-timm==0.9.12
+timm==0.6.13
 pillow
+safetensors==0.3.1
